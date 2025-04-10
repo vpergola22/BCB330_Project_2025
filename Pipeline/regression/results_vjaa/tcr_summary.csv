@@ -1,0 +1,2 @@
+tcr_id,mean_accuracy,mean_f1,mean_precision,mean_recall,mean_cv_f1,total_models,significant_bins,best_bin,best_f1
+TRAV13-1;TRBV18_TRAJ29;TRBJ2-7,1.0,1.0,1.0,1.0,0.16428571428571428,7,7,exactly_1,1.0

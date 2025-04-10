@@ -1,0 +1,2 @@
+total_models,avg_f1,avg_accuracy,avg_precision,avg_recall,total_tcrs,total_bins,models_with_significant_features
+14,1.0,1.0,1.0,1.0,2,7,14

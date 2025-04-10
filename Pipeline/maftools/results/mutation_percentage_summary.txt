@@ -1,0 +1,33 @@
+MUTATION PERCENTAGE ANALYSIS
+============================
+
+Total samples analyzed: 8 
+
+Genes by mutation frequency:
+- 100% of samples: 2245 genes
+- 75-99% of samples: 1849 genes
+- 50-74% of samples: 1616 genes
+- 25-49% of samples: 2176 genes
+- 1-24% of samples: 2614 genes
+
+Top 20 most frequently mutated genes:
+1. MUC19: 100.0% (8/8 samples)
+2. MUC4: 100.0% (8/8 samples)
+3. MUC16: 100.0% (8/8 samples)
+4. MUC3A: 100.0% (8/8 samples)
+5. FCGBP: 100.0% (8/8 samples)
+6. AHNAK2: 100.0% (8/8 samples)
+7. MUC12: 100.0% (8/8 samples)
+8. PKD1L2: 100.0% (8/8 samples)
+9. CCDC168: 100.0% (8/8 samples)
+10. FSIP2: 100.0% (8/8 samples)
+11. OBSCN: 100.0% (8/8 samples)
+12. HLA-B: 100.0% (8/8 samples)
+13. HRNR: 100.0% (8/8 samples)
+14. TTN: 100.0% (8/8 samples)
+15. ZAN: 100.0% (8/8 samples)
+16. C1orf167: 100.0% (8/8 samples)
+17. HLA-C: 100.0% (8/8 samples)
+18. GOLGA6L2: 100.0% (8/8 samples)
+19. ZNF568: 100.0% (8/8 samples)
+20. FLG: 100.0% (8/8 samples)

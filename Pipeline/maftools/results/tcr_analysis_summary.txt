@@ -1,0 +1,20 @@
+TCR GENE MUTATION ANALYSIS
+==========================
+
+TCR-related genes identified in dataset: 14 
+
+TCR genes present in dataset:
+1. CD3E: Mutated in 1 samples (12.5%)
+2. CD3G: Mutated in 2 samples (25.0%)
+3. TRGV9: Mutated in 5 samples (62.5%)
+4. TRGC2: Mutated in 2 samples (25.0%)
+5. TRBV7-3: Mutated in 2 samples (25.0%)
+6. TRAV8-4: Mutated in 1 samples (12.5%)
+7. TRBV3-1: Mutated in 1 samples (12.5%)
+8. TRBV6-5: Mutated in 1 samples (12.5%)
+9. TRAJ13: Mutated in 1 samples (12.5%)
+10. TRAJ38: Mutated in 1 samples (12.5%)
+11. TRAV36DV7: Mutated in 1 samples (12.5%)
+12. TRBV5-3: Mutated in 1 samples (12.5%)
+13. TRBV6-8: Mutated in 1 samples (12.5%)
+14. TRBV7-4: Mutated in 1 samples (12.5%)

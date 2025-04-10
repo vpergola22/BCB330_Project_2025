@@ -1,0 +1,3 @@
+tcr_id,mean_accuracy,max_accuracy,mean_f1,significant_bins,positive_coef_bins,negative_coef_bins
+TCR_0,0.6785714285714286,0.875,0.6244897959183674,0,6,1
+TCR_1,0.5892857142857143,0.75,0.4333333333333333,0,6,1

@@ -1,0 +1,15 @@
+tcr,bin,accuracy,f1,precision,recall,cv_f1,num_mutations_in_bin,num_significant_features,penalty,C,solver
+TRAV13-1;TRBV18_TRAJ29;TRBJ2-7,exactly_1,1.0,1.0,1.0,1.0,0.0,1395069,25,l1,10,liblinear
+TRAV13-1;TRBV18_TRAJ29;TRBJ2-7,1_to_2,1.0,1.0,1.0,1.0,0.45,203659,182,l1,10,liblinear
+TRAV13-1;TRBV18_TRAJ29;TRBJ2-7,1_to_3,1.0,1.0,1.0,1.0,0.2,292877,154,l1,10,liblinear
+TRAV13-1;TRBV18_TRAJ29;TRBJ2-7,1_to_4,1.0,1.0,1.0,1.0,0.5,355002,159,l1,10,liblinear
+TRAV13-1;TRBV18_TRAJ29;TRBJ2-7,1_to_5,1.0,1.0,1.0,1.0,0.0,403774,106,l1,10,liblinear
+TRAV13-1;TRBV18_TRAJ29;TRBJ2-7,1_to_6,1.0,1.0,1.0,1.0,0.0,444526,124,l1,10,liblinear
+TRAV13-1;TRBV18_TRAJ29;TRBJ2-7,1_to_7,1.0,1.0,1.0,1.0,0.0,481320,15,l1,1,liblinear
+TRBV18_TRBJ2-7,exactly_1,1.0,1.0,1.0,1.0,0.0,1395069,25,l1,10,liblinear
+TRBV18_TRBJ2-7,1_to_2,1.0,1.0,1.0,1.0,0.45,203659,177,l1,10,liblinear
+TRBV18_TRBJ2-7,1_to_3,1.0,1.0,1.0,1.0,0.2,292877,146,l1,10,liblinear
+TRBV18_TRBJ2-7,1_to_4,1.0,1.0,1.0,1.0,0.5,355002,162,l1,10,liblinear
+TRBV18_TRBJ2-7,1_to_5,1.0,1.0,1.0,1.0,0.0,403774,113,l1,10,liblinear
+TRBV18_TRBJ2-7,1_to_6,1.0,1.0,1.0,1.0,0.0,444526,115,l1,10,liblinear
+TRBV18_TRBJ2-7,1_to_7,1.0,1.0,1.0,1.0,0.0,481320,15,l1,1,liblinear

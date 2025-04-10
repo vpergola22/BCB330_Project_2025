@@ -1,0 +1,9 @@
+patient,sample,lane,fastq_1,fastq_2
+SAMN20792896,SRX11758678,lane_1,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758678_SRR15459345_1.fastq.gz,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758678_SRR15459345_2.fastq.gz
+SAMN20792920,SRX11758680,lane_1,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758680_SRR15459343_1.fastq.gz,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758680_SRR15459343_2.fastq.gz
+SAMN20792851,SRX11758698,lane_1,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758698_SRR15459325_1.fastq.gz,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758698_SRR15459325_2.fastq.gz
+SAMN20792930,SRX11758708,lane_1,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758708_SRR15459315_1.fastq.gz,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758708_SRR15459315_2.fastq.gz
+SAMN20792935,SRX11758710,lane_1,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758710_SRR15459313_1.fastq.gz,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758710_SRR15459313_2.fastq.gz
+SAMN20792938,SRX11758711,lane_1,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758711_SRR15459312_1.fastq.gz,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758711_SRR15459312_2.fastq.gz
+SAMN20792942,SRX11758712,lane_1,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758712_SRR15459311_1.fastq.gz,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758712_SRR15459311_2.fastq.gz
+SAMN20792945,SRX11758713,lane_1,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758713_SRR15459310_1.fastq.gz,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022_ver2/fastq/SRX11758713_SRR15459310_2.fastq.gz

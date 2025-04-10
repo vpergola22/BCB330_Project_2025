@@ -1,0 +1,2 @@
+group_id,subject_id,sample_id,sample_type,sequence_type,filetype,info,filepath
+song2022_wes,SAMN20792909,SRX11758612,tumor,dna,fastq,,/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022/fastq/SRX11758612_SRR15459411_1.fastq.gz;/ddn_exa/campbell/vpergola/Data/Tumour/wes/song2022/fastq/SRX11758612_SRR15459411_2.fastq.gz

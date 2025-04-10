@@ -1,0 +1,8 @@
+tcr_id,mean_accuracy,mean_f1,mean_precision,mean_recall,mean_cv_f1,total_models,significant_bins,best_bin,best_f1
+TRAV13-1;TRBV18_TRAJ29;TRBJ2-7,1.0,1.0,1.0,1.0,0.16428571428571428,7,7,exactly_1,1.0
+TRAV2;TRBV6-6_TRAJ37;TRBJ2-7,1.0,1.0,1.0,1.0,0.19285714285714287,7,7,exactly_1,1.0
+TRAV8-3;TRBV19_TRAJ34;TRBJ2-3,1.0,1.0,1.0,1.0,0.19285714285714287,7,7,exactly_1,1.0
+TRAV9-2;TRBV11-3_TRAJ37;TRBJ2-7,1.0,1.0,1.0,1.0,0.25476190476190474,7,7,exactly_1,1.0
+TRBV20-1_TRBJ2-1,1.0,1.0,1.0,1.0,0.0,7,7,exactly_1,1.0
+TRBV5-1_TRBJ2-1,1.0,1.0,1.0,1.0,0.0,7,7,exactly_1,1.0
+TRBV9_TRBJ2-7,1.0,1.0,1.0,1.0,0.19285714285714287,7,7,exactly_1,1.0

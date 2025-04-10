@@ -1,0 +1,9 @@
+"","PT11_filtered_contig_annotations","PT35_filtered_contig_annotations","PT47_filtered_contig_annotations","PT50_filtered_contig_annotations","PT52_filtered_contig_annotations","PT53_filtered_contig_annotations","PT55_filtered_contig_annotations","PT56_filtered_contig_annotations"
+"PT11_filtered_contig_annotations",NA,0,0,0,0,0,0,0
+"PT35_filtered_contig_annotations",0,NA,0,0,0,0,0,0
+"PT47_filtered_contig_annotations",0,0,NA,0,0,0,0,0
+"PT50_filtered_contig_annotations",0,0,0,NA,0,0,0,0
+"PT52_filtered_contig_annotations",0,0,0,0,NA,0,0,2
+"PT53_filtered_contig_annotations",0,0,0,0,0,NA,0,0
+"PT55_filtered_contig_annotations",0,0,0,0,0,0,NA,0
+"PT56_filtered_contig_annotations",0,0,0,0,2,0,0,NA

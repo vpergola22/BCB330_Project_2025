@@ -1,0 +1,22 @@
+# Ignore specific T-cell data directories
+Data/Tcell/sc/hugaboom2025/
+Data/Tcell/scratch/GSM3181798/
+Data/Tcell/sc/song2022/imported_files/
+Data/Joined
+
+# Ignore specific Tumour data directories
+Data/Tumour/rnaseq/GSE114724/
+Data/Tumour/wes/song2022/song2022_ver1/
+Data/Tumour/wes/song2022/song2022_ver2/
+
+# Ignore nfcore pipeline outputs and extras
+nfcore/nfcore_runs/WES/song2022/
+nfcore/nfcore_extras/
+
+# Ignore meskit/maftools input files
+Pipeline/maftools/meskit_input/unfiltered/
+Pipeline/maftools/meskit_input/filtered/
+Pipeline/maftools/final_mafs/
+Pipeline/maftools/vcf_inputs/
+Pipeline/maftools/results/combined_maf_summary_maftools.maf
+Pipeline/maftools/unfiltered_runs
