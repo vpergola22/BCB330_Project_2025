@@ -30,7 +30,9 @@ Using publicly available datasets, I built a pipeline to preprocess and integrat
 b. Analyzed using immunarch
 - Built binary logistic regression models in scikit-learn using public TCRs 
 
-![Pipeline Workflow](docs/Workflow.png)
+<p align="center">
+  <img src="docs/Workflow.png" alt="Workflow Diagram" width="500"/>
+</p>
 
 ---
 
@@ -50,6 +52,7 @@ All preprocessing and quality control steps were performed using **nf-core** pip
 
 ### 🖥️ Presentation
 📑 [**BCB330 Final Presentation (PDF)**](./docs/BCB330_Final_Presentation.pdf)
+
 
 ---
 
