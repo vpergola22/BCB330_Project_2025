@@ -30,7 +30,7 @@ Using publicly available datasets, I built a pipeline to preprocess and integrat
 b. Analyzed using immunarch
 - Built binary logistic regression models in scikit-learn using public TCRs 
 
-![Pipeline Workflow](docs/workflow.png)
+![Pipeline Workflow](docs/Workflow.png)
 
 ---
 
